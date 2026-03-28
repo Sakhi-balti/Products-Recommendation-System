@@ -1,7 +1,3 @@
-"""
-Complete Amazon-Like E-Commerce Recommendation System
-Final Version with Smooth Gradient Background and Modern Navbar
-"""
 
 import streamlit as st
 import pandas as pd
